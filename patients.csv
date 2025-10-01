@@ -1,0 +1,3 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis 
+1,45,M,120,200,Healthy 
+2,50,F,140,230,Diabetes 
